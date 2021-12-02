@@ -18,6 +18,7 @@
   ## Installation
   npm i
   ## Usage
+   User run node index.js. User is prompted to input infomation. Generated README
   ## License
   MIT
   
