@@ -12,7 +12,7 @@
   -[ Installation](#installation)
   -[ Usage](#usage)
   -[ License](#license)
-  -[ Contributing](#contributing)
+  -[ screenshot](#screenshot)
   -[ Tests](#tests)
   -[ Questions](#questions)
   ## Installation
