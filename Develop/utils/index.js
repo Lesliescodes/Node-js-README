@@ -15,12 +15,12 @@ const questions = [{
     // need repository or README wont save to anywhere 
     type: 'input',
     name: 'repository',
-    message: 'Enter the name of your repository on GitHub.',
+    message: 'Enter the name of your repository on GitHub?',
   },
   //   Whats the discription?
   {
     type: "input",
-    message: "Please provide a breif discription of your project.",
+    message: "Please provide a breif discription of your project?",
     name: "description",
   },
 
@@ -28,7 +28,7 @@ const questions = [{
     //   github
     type: "input",
     name: "GitHub",
-    message: "Please enter your GitHub Username.",
+    message: "Please enter your GitHub Username?",
   },
   {
     type: "input",
@@ -39,7 +39,7 @@ const questions = [{
     //   email
     type: "input",
     name: "email",
-    message: "Please provide your email address.",
+    message: "Please provide your email address?",
   },
   {
     type: "list",
@@ -51,14 +51,14 @@ const questions = [{
   {
     type: "input",
     name: "installation",
-    message: "What commands should be run for dependencies?",
+    message: "What commands should be run for dependencies? (not required)",
     default: "npm i",
   },
   // test w/ default if nothing selected
   {
     type: "input",
     name: "test",
-    message: "What commands should be run for tests?",
+    message: "What commands should be run for tests? (not required)",
     default: "npm run test",
   },
 
