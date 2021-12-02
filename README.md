@@ -12,7 +12,7 @@
   -[ Installation](#installation)
   -[ Usage](#usage)
   -[ License](#license)
-  -[ screenshot](#screenshot)
+  -[ DEMO](#DEMO)
   -[ Tests](#tests)
   -[ Questions](#questions)
   ## Installation
@@ -22,7 +22,8 @@
   ## License
   MIT
   
-  ## Contributing
+  ## DEMO
+  https://youtu.be/gyh-dlNJj-s
   ## Tests
   npm run test
   ## Questions
