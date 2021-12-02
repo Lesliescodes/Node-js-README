@@ -23,7 +23,6 @@
   MIT
   
   ## Contributing
-  undefined
   ## Tests
   npm run test
   ## Questions
