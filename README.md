@@ -12,20 +12,20 @@
   -[ Installation](#installation)
   -[ Usage](#usage)
   -[ License](#license)
-  -[ Contributing](#contributing)
+  -[ screenshot](#screenshot)
   -[ Tests](#tests)
   -[ Questions](#questions)
   ## Installation
   npm i
   ## Usage
+   User run node index.js. User is prompted to input infomation. Generated README
   ## License
   MIT
   
   ## Contributing
-  undefined
   ## Tests
   npm run test
   ## Questions
   github.com/Lesliescodes
-  undefined
+  
   
